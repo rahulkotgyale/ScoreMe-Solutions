@@ -1,2 +1,28 @@
 # ScoreMe-Solutions
-ScoreMe MSME Pipeline Scheduling System built using Java 17, Spring Boot 3.4.1, JPA, and MySQL. Implements task scheduling with conflict management, resource allocation, SLA validation, slot assignment, and penalty calculation.
+# Pipeline Scheduler
+
+A Spring Boot application for solving the MSME Pipeline Scheduling problem.
+
+## Features
+- Task Management (CRUD)
+- Slot Management (CRUD)
+- Conflict Management (CRUD)
+- Assignment Management (CRUD)
+- Resource Capacity Validation
+- SLA Window Validation
+- Conflict Detection
+- Scheduling Engine
+- Exception Handling
+- REST APIs
+- MySQL Database Integration
+
+## Tech Stack
+- Java 17
+- Spring Boot 3.4.1
+- Spring Data JPA
+- MySQL
+- Maven
+- Lombok
+
+## Author
+Rahul Kotgyale
